@@ -32,7 +32,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     
-   git clone https://github.com/username/expense_tracker.git
+   git clone https://github.com/ganeshnitalikar/Expense-Tracker.git
      
 2. Navigate to the project directory:
     
