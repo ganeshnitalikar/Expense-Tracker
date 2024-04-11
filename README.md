@@ -1,6 +1,4 @@
-Here's a sample README.md file for your Expense Tracker Flutter project with added screenshots:
 
-```markdown
 # Expense Tracker
 
 Expense Tracker is a Flutter project designed for UI practice. It includes the following screens:
@@ -33,21 +31,21 @@ Expense Tracker is a Flutter project designed for UI practice. It includes the f
 To run this project locally, follow these steps:
 
 1. Clone the repository:
-   ```bash
+    
    git clone https://github.com/username/expense_tracker.git
-   ```
+     
 2. Navigate to the project directory:
-   ```bash
+    
    cd expense_tracker
-   ```
+     
 3. Install dependencies:
-   ```bash
+    
    flutter pub get
-   ```
+     
 4. Run the app:
-   ```bash
+    
    flutter run
-   ```
+     
 
 ## Contributing
 
@@ -56,4 +54,4 @@ Contributions are welcome! If you find any issues or have suggestions, feel free
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
+  
